@@ -14,7 +14,7 @@ class Solution {
             }
             res= (res+(countOne* (A.length-countOne)))%1000000007;
         }
-        return (int)(res);
+        return (int)res;
         
     }
 }
