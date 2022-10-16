@@ -9,12 +9,12 @@ class Solution {
             long countOne=0;
             for(int j=0;j<A.length;j++)
             {
-                if(((A[j]>>i)&1)==1)countOne++;
-                
+               countOne+=(A[j]>>i)&1; 
             }
-            res= (res+(countOne* (A.length-countOne)))%1000000007;
+            res= (res+(countOne* (A.length-countOne)));
         }
         return (int)res;
         
     }
 }
+
