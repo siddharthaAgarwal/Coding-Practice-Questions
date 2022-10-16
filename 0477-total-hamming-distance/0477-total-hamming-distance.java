@@ -1,5 +1,8 @@
 class Solution {
     public int totalHammingDistance(int[] A) {
+         if (A == null) {
+            return 0;
+        }
         long res=0;
         for(int i=0;i<32;i++)
         {
