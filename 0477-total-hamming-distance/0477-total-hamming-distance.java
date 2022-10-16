@@ -1,24 +1,18 @@
 class Solution {
     public int totalHammingDistance(int[] A) {
-         if (A == null) {
+         if (A == null || A.length==1) {
             return 0;
         }
         long res=0;
         for(int i=0;i<32;i++)
         {
             long countOne=0;
-            int num=0;
-            int c=0;
             for(int j=0;j<A.length;j++)
             {
-                num=A[j]>>i;
-                if((num&1)==1)countOne++;
-                if(num==0)c++;
+                if(((A[j]>>i)&1)==1)countOne++;
                 
             }
             res= (res+(countOne* (A.length-countOne)))%1000000007;
-                if(c==A.length)
-                break;
         }
         return (int)res;
         
