@@ -3,17 +3,19 @@ class Solution {
          if (A == null) {
             return 0;
         }
-        long res=0;
+        
+        int res=0;
+        int n=A.length;
         for(int i=0;i<32;i++)
         {
-            long countOne=0;
-            for(int j=0;j<A.length;j++)
+            int countOne=0;
+            for(int j=0;j<n;j++)
             {
                countOne+=(A[j]>>i)&1; 
             }
-            res= (res+(countOne* (A.length-countOne)));
+            res= (res+(countOne* (n-countOne)));
         }
-        return (int)res;
+        return res;
         
     }
 }
