@@ -1,6 +1,6 @@
 class Solution {
     public int totalHammingDistance(int[] A) {
-         if (A == null || A.length==1) {
+         if (A == null) {
             return 0;
         }
         long res=0;
