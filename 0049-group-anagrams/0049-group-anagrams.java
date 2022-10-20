@@ -12,16 +12,17 @@ class Solution {
         v[(int)(s.charAt(i)-97)]++;
     }
 
-    String res="";
+    StringBuilder res=new StringBuilder("");
     for(int i=0;i<26;i++)
     {
         if(v[i]!=0)
         {
-            res= res+ (char)(i+'a')+v[i];
+            res.append( (char)(i+'a'));
+            res.append(v[i]);
         }
     }    
     
-    return res;
+    return res.toString();
     }
 
 
