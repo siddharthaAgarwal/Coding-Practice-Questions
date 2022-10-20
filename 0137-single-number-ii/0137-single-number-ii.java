@@ -12,8 +12,6 @@ class Solution {
             int n=one%3;
             num= num| n<<i ;
         }
-                            //System.out.print(Integer.toBinaryString(-4));
-
         return num;
     }
 }
