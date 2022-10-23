@@ -5,16 +5,15 @@ class Solution {
             return "1";
         }
         A--;
-        String num="1";
+        StringBuilder num= new StringBuilder("1");
         while(A!=0)   
         {
             int i=0;
             int curr=-1;
             int count=0;
-            String res="";
+            StringBuilder res=new StringBuilder("");
             while(i!=num.length())
             {
-                //System.out.print(res+" ");
                 int c=num.charAt(i)-'0';
                 if(c==curr)
                 {
@@ -23,18 +22,18 @@ class Solution {
                 else
                 {
                     if(curr!=-1)
-                    res= (res+ count)+curr;
+                    res= res.append(count).append(curr);
                     curr=c;
                     count=1;
                 }
                 i++;
                 //System.out.println(res+" "+curr+" "+count);
             }
-            res= (res+ count)+curr;
+            res= res.append(count).append(curr);
             num=res;
             A--;
         }
-        return num;
+        return num.toString();
         
     }
 }
