@@ -9,7 +9,8 @@ class Solution {
         while (left <= right) {
             mid = left + (right - left) / 2;
             //System.out.println(left+" "+mid+" "+right);
-            if (num / mid == mid) return mid; else if (mid < num / mid) {
+            int cal=num/mid;
+            if (cal == mid) return mid; else if (mid < cal) {
                 left = mid + 1;
                 res = mid;
             } else right = mid - 1;
