@@ -13,20 +13,25 @@
  *     }
  * }
  */
-public class Solution {
-    public List<List<Integer>> pathSum(TreeNode root, int sum) {
-        List<List<Integer>> ans = new ArrayList<List<Integer>>();
-        List<Integer> path = new ArrayList();
-        findPath(root, sum, path, ans);
-        return ans;
+class Solution {
+    
+    private List<List<Integer>> resultList = new ArrayList<List<Integer>>();
+    
+    public void pathSumInner(TreeNode root, int sum, Stack<Integer>path) {
+        path.push(root.val);
+        if(root.left == null && root.right == null)
+            if(sum == root.val) resultList.add(new ArrayList<Integer>(path));
+        if(root.left!=null) pathSumInner(root.left, sum-root.val, path);
+        if(root.right!=null)pathSumInner(root.right, sum-root.val, path);
+        path.pop();
     }
     
-    private void findPath(TreeNode r, int target, List<Integer> path, List<List<Integer>> ans) {
-        if (r == null ) return;
-        path.add(r.val);
-        if (r.left == null && r.right == null && r.val == target) ans.add(new ArrayList<Integer>(path));
-        if (r.right != null) findPath(r.right, target - r.val, path, ans);
-        if (r.left != null) findPath(r.left, target - r.val, path, ans);
-        path.remove(path.size() - 1);
+    public List<List<Integer>> pathSum(TreeNode root, int sum) {
+        if(root==null) return resultList;
+        Stack<Integer> path = new Stack<Integer>();
+        pathSumInner(root, sum, path);
+        return resultList;
     }
+    
+
 }
