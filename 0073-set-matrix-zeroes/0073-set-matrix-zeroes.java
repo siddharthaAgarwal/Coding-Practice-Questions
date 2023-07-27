@@ -2,8 +2,10 @@ class Solution {
 
     public void setZeroes(int[][] a) {
         int col = 1;
-        for (int i = 0; i < a.length; i++) {
-            for (int j = 0; j < a[i].length; j++) {
+        int n = a.length;
+        int m = a[0].length;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
                 if (a[i][j] == 0) {
                     a[i][0] = 0;
 
@@ -16,8 +18,8 @@ class Solution {
             }
         }
 
-        for (int i = 1; i < a.length; i++) {
-            for (int j = 1; j < a[i].length; j++) {
+        for (int i = 1; i < n; i++) {
+            for (int j = 1; j < m; j++) {
                 if (a[i][0] == 0 || a[0][j] == 0) {
                     a[i][j] = 0;
                 }
@@ -25,13 +27,13 @@ class Solution {
         }
 
         if (a[0][0] == 0) {
-            for (int j = 0; j < a[0].length; j++) {
+            for (int j = 0; j < m; j++) {
                 a[0][j] = 0;
             }
         }
 
         if (col == 0) {
-            for (int i = 0; i < a.length; i++) {
+            for (int i = 0; i < n; i++) {
                 a[i][0] = 0;
             }
         }
