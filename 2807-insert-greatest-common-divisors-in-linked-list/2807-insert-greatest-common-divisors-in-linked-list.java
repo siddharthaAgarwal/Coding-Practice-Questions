@@ -11,17 +11,13 @@
 class Solution {
     
     
-    int gcd(int a, int b)
-    {
-        if(a==b)
-        {
-            return a;
+  private int gcd(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
         }
-        else if(a>b)
-        {
-            return gcd(a-b,b);
-        }
-        return gcd(b,a);
+        return a;
     }
     
     public ListNode insertGreatestCommonDivisors(ListNode head) {
