@@ -8,11 +8,6 @@ class Solution {
         
         int[][] dp = new int[m+1][n+1];
         
-        for(int[] i:dp)
-        {
-            Arrays.fill(i,0);
-        }
-        
         for(int i=1;i<=m;i++)
         {
             for(int j=1;j<=n;j++)
