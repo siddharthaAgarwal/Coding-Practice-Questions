@@ -1,24 +1,28 @@
 class Solution {
-
-    int squareRoot(int num) {
-        if (num < 2) return num;
-        int left = 1;
-        int right = num;
-        int res = 0;
-        int mid = 0;
-        while (left <= right) {
-            mid = left + (right - left) / 2;
-            //System.out.println(left+" "+mid+" "+right);
-            int cal=num/mid;
-            if (cal == mid) return mid; else if (mid < cal) {
-                left = mid + 1;
-                res = mid;
-            } else right = mid - 1;
-        }
-        return res;
-    }
-
     public int mySqrt(int x) {
-        return squareRoot(x);
+     
+        long l=0, r=x;
+        long res=0;
+        
+        if(x==1) return x;
+        
+        while(l<r)
+        {
+            long mid= (l+r)/2;
+            
+            if(mid* mid<x)
+            {
+                res=mid;
+                l=mid+1;
+            }
+            else if(mid*mid>x) {
+                r=mid;
+            }
+            else
+            {
+                return (int)mid;
+            }
+        }
+        return (int)res;
     }
 }
