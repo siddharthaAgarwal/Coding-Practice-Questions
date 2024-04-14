@@ -14,30 +14,21 @@
  * }
  */
 class Solution {
-    
-       //  /
-       // /\
-    private int isLeftLeaf(TreeNode root)
-    {
-        
-        if(root.left!=null && root.left.left== null && root.left.right==null)
-        {
+
+    private int processLeftLeaf(TreeNode root) {
+        if (root.left != null && root.left.left == null && root.left.right == null) 
             return root.left.val;
-        }
         return 0;
     }
-    
-    
+
     public int sumOfLeftLeaves(TreeNode root) {
-        if(root == null)
-            return 0;
-        
-        int sum=0;
+        if (root == null) return 0;
+
+        int sum = 0;
         sum += sumOfLeftLeaves(root.left);
-        sum += isLeftLeaf(root);
+        sum += processLeftLeaf(root);
         sum += sumOfLeftLeaves(root.right);
-        
-        
-        return  sum;
+
+        return sum;
     }
 }
