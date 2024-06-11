@@ -29,17 +29,24 @@ Collection of LeetCode questions to ace the coding interview!
 | [0648-replace-words](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1217-relative-sort-array) |
 # Array
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1217-relative-sort-array) |
 # Sorting
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0876-hand-of-straights) |
+| [1217-relative-sort-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1217-relative-sort-array) |
 # Trie
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0648-replace-words) |
+# Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1217-relative-sort-array) |
