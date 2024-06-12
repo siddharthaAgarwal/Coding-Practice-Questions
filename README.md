@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0648-replace-words](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0876-hand-of-straights) |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0876-hand-of-straights) |
 | [1217-relative-sort-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1217-relative-sort-array) |
 # Trie
