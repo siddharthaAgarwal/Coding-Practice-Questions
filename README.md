@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0133-clone-graph) |
 | [0409-longest-palindrome](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0876-hand-of-straights) |
@@ -58,3 +59,15 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+# Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0133-clone-graph) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0133-clone-graph) |
+# Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0133-clone-graph) |
