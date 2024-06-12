@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0648-replace-words](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1044-find-common-characters) |
@@ -50,3 +51,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1217-relative-sort-array) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
