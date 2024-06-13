@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0409-longest-palindrome](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0876-hand-of-straights) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Hash Table
 |  |
@@ -41,12 +42,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0876-hand-of-straights) |
 | [1217-relative-sort-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1217-relative-sort-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Trie
 |  |
 | ------- |
