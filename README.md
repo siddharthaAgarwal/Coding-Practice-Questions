@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0853-most-profit-assigning-work](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1044-find-common-characters) |
 | [1138-grumpy-bookstore-owner](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1138-grumpy-bookstore-owner) |
 | [1217-relative-sort-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1217-relative-sort-array) |
@@ -102,4 +103,17 @@ Collection of LeetCode questions to ace the coding interview!
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1138-grumpy-bookstore-owner) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Prefix Sum
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
