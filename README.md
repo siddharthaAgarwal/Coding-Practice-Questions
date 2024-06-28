@@ -117,3 +117,22 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Greedy
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2379-maximum-total-importance-of-roads) |
+## Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2379-maximum-total-importance-of-roads) |
+## Sorting
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2379-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics End-->
