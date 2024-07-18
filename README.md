@@ -156,4 +156,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0726-number-of-atoms) |
+## Tree
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Binary Tree
+|  |
+| ------- |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 <!---LeetCode Topics End-->
