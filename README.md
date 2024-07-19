@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1720-crawler-log-folder) |
 ## String
 |  |
@@ -168,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
