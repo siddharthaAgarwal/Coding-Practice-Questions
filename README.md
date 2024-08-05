@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2502-sort-the-people) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0726-number-of-atoms](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1720-crawler-log-folder) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0726-number-of-atoms](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0726-number-of-atoms) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2502-sort-the-people) |
 ## Tree
 |  |
@@ -231,4 +234,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+## Counting
+|  |
+| ------- |
+| [2163-kth-distinct-string-in-an-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 <!---LeetCode Topics End-->
