@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1720-crawler-log-folder) |
@@ -238,4 +239,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0273-integer-to-english-words) |
+## Recursion
+|  |
+| ------- |
+| [0273-integer-to-english-words](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0273-integer-to-english-words) |
 <!---LeetCode Topics End-->
