@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1333-sort-the-jumbled-numbers](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1511-count-number-of-teams) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0726-number-of-atoms](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2502-sort-the-people) |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
@@ -204,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -219,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Dynamic Programming
 |  |
@@ -257,4 +262,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0921-spiral-matrix-iii) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->
