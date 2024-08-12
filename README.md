@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2379-maximum-total-importance-of-roads](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2379-maximum-total-importance-of-roads) |
 ## Array
 |  |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Depth-First Search
 |  |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Matrix
 |  |
@@ -266,4 +269,16 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0999-regions-cut-by-slashes) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
