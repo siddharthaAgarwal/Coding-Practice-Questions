@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0726-number-of-atoms) |
 | [1333-sort-the-jumbled-numbers](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0040-combination-sum-ii) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0999-regions-cut-by-slashes) |
@@ -244,10 +246,12 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Counting
 |  |
