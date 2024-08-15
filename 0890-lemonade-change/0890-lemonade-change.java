@@ -29,16 +29,10 @@ class Solution {
                }
                else return false;
             }
-            System.out.println("5-> "+count5+",  10-> "+count10);
         }
 
         return true;
 
-    //  [5,5,5,10,5,20,5,10,5,20]
-    //              |
-    //  count5=3
-    //  count10=1
-    //  count20=
 
    
     }
