@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0999-regions-cut-by-slashes) |
+| [1240-stone-game-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1511-count-number-of-teams) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0264-ugly-number-ii) |
+| [1240-stone-game-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1511-count-number-of-teams) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Binary Indexed Tree
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0264-ugly-number-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1240-stone-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -298,4 +301,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0040-combination-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
