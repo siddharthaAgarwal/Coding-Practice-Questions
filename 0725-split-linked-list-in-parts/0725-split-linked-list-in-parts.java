@@ -26,7 +26,7 @@ class Solution {
 
         for (int i = 0; i < k; i++) {
             int size = (n / k) + (n % k - i > 0 ? 1 : 0);
-            System.out.println(size);
+           // System.out.println(size);
 
             res[i] = head;
             while (head != null && size != 0) {
