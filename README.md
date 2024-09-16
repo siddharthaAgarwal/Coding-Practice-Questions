@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0726-number-of-atoms) |
 | [1333-sort-the-jumbled-numbers](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1333-sort-the-jumbled-numbers) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0040-combination-sum-ii) |
+| [0539-minimum-time-difference](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0890-lemonade-change) |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0664-strange-printer) |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0264-ugly-number-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0870-magic-squares-in-grid](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0870-magic-squares-in-grid) |
