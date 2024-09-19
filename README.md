@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0564-find-the-closest-palindrome) |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0264-ugly-number-ii) |
 | [0664-strange-printer](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0664-strange-printer) |
 | [1240-stone-game-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1240-stone-game-ii) |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0539-minimum-time-difference) |
@@ -307,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0273-integer-to-english-words) |
 ## Simulation
 |  |
@@ -355,4 +359,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0725-split-linked-list-in-parts](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
