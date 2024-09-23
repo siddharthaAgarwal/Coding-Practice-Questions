@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2472-build-a-matrix-with-conditions](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2163-kth-distinct-string-in-an-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1741-sort-array-by-increasing-frequency](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -275,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1240-stone-game-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1511-count-number-of-teams) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2755-extra-characters-in-a-string](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2755-extra-characters-in-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -382,4 +386,5 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
