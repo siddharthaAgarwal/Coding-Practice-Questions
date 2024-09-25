@@ -22,18 +22,12 @@ class Solution {
 
      public int getSum(Trie root, String word, int i)
      {
-        if(root == null || i==word.length())
-        {
-            return 0;
-        }
-        
-        int index = word.charAt(i)-'a';
-        if(root.child[index]==null)
+        if(root == null || i==word.length() || root.child[word.charAt(i)-'a']==null)
         {
             return 0;
         }
 
-        return root.child[index].count+ getSum(root.child[index],word,i+1);
+        return root.child[word.charAt(i)-'a'].count+ getSum(root.child[word.charAt(i)-'a'],word,i+1);
         
      }
 
