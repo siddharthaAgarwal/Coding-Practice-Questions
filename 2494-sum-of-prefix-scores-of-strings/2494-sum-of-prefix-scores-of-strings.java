@@ -20,15 +20,16 @@ class Solution {
         }
     }
 
-     public int getSum(Trie root, String word, int i)
+     public int getSum(String word)
      {
-        if(root == null || i==word.length() || root.child[word.charAt(i)-'a']==null)
-        {
-            return 0;
-        }
-
-        return root.child[word.charAt(i)-'a'].count+ getSum(root.child[word.charAt(i)-'a'],word,i+1);
-        
+        int res=0;
+        Trie temp = root;
+       for(int i=0;i<word.length() && temp.child[word.charAt(i)-'a']!=null ;i++)
+       {
+            res += temp.child[word.charAt(i)-'a'].count;
+            temp = temp.child[word.charAt(i)-'a'];
+       }   
+       return res;     
      }
 
 
@@ -44,7 +45,7 @@ class Solution {
 
         for(int i=0;i<words.length;i++)
         {
-            res[i]= getSum(root,words[i],0);
+            res[i]= getSum(words[i]);
         }
         return res;
     }
