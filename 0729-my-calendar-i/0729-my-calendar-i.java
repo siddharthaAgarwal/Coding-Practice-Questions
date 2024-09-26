@@ -9,11 +9,15 @@ class MyCalendar {
     
     public boolean book(int start, int end) {
         
-        Integer floor = calendar.floorKey(start);
-        Integer ceil = calendar.ceilingKey(start);
+        // Find Events about to happen before and after current start time
+        Integer eventBefore = calendar.floorKey(start);
+        Integer eventAfter = calendar.ceilingKey(start);
         
-        if((floor==null || calendar.get(floor)<=start) && (ceil==null || ceil>=end))
-        {
+        // Make sure PreviousEvent completes before current Event start and next event should start only after current event Ends
+        if((eventBefore==null || calendar.get(eventBefore)<=start) && (eventAfter==null || eventAfter>=end)) {
+            /**
+                We only need to book non-overlapping events
+            */
             calendar.put(start, end);
             return true;
         }
