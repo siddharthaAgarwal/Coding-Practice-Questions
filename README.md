@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0729-my-calendar-i) |
+| [0732-my-calendar-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0732-my-calendar-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Counting
 |  |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0729-my-calendar-i) |
+| [0732-my-calendar-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0732-my-calendar-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0732-my-calendar-iii) |
 | [1240-stone-game-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1240-stone-game-ii) |
 ## Game Theory
 |  |
@@ -400,8 +403,10 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0729-my-calendar-i) |
+| [0732-my-calendar-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0732-my-calendar-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0729-my-calendar-i) |
+| [0732-my-calendar-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0732-my-calendar-iii) |
 <!---LeetCode Topics End-->
