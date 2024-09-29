@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0264-ugly-number-ii) |
+| [0432-all-oone-data-structure](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0432-all-oone-data-structure) |
 | [0726-number-of-atoms](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0906-walking-robot-simulation) |
@@ -344,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0732-my-calendar-iii) |
@@ -379,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1484-linked-list-in-binary-tree) |
@@ -422,4 +425,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
