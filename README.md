@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1325-path-with-maximum-probability](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1511-count-number-of-teams) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0726-number-of-atoms](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1720-crawler-log-folder) |
 ## Hash Table
 |  |
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0732-my-calendar-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
 | ------- |
