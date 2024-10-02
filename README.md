@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0726-number-of-atoms) |
+| [1256-rank-transform-of-an-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0921-spiral-matrix-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1240-stone-game-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1240-stone-game-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0906-walking-robot-simulation](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0999-regions-cut-by-slashes](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0999-regions-cut-by-slashes) |
+| [1256-rank-transform-of-an-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
