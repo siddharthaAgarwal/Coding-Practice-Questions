@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1923-sentence-similarity-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1923-sentence-similarity-iii) |
 | [2035-count-sub-islands](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1720-crawler-log-folder](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1720-crawler-log-folder) |
+| [1923-sentence-similarity-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1923-sentence-similarity-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2502-sort-the-people) |
@@ -307,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1923-sentence-similarity-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1923-sentence-similarity-iii) |
 ## Binary Search
 |  |
 | ------- |
