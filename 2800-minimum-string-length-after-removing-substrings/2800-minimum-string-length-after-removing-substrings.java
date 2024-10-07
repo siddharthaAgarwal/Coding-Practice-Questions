@@ -3,19 +3,14 @@ class Solution {
 
         Stack<Character> stack = new Stack<>();
         stack.push('~');
-        for(int i=0;i<s.length();i++)
-        {
-            if((s.charAt(i)=='B' && stack.peek() == 'A')|| (s.charAt(i)=='D' && stack.peek() == 'C'))
-            {
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            if ((c == 'B' && stack.peek() == 'A') || (c == 'D' && stack.peek() == 'C')) {
                 stack.pop();
+            } else {
+                stack.push(c);
             }
-            else 
-            {
-                stack.push(s.charAt(i));
-            }
-                        // System.out.println(stack);
-
         }
-        return stack.size()-1;
+        return stack.size() - 1;
     }
 }
