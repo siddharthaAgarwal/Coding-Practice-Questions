@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2502-sort-the-people](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1720-crawler-log-folder) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -348,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0906-walking-robot-simulation](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0921-spiral-matrix-iii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Union Find
 |  |
 | ------- |
