@@ -1,22 +1,21 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        Stack<Character> stack = new Stack<>();
-        stack.push('~');
+       int open=0, closed=0;
         for(int i=0;i<s.length();i++)
         {
             if(s.charAt(i)=='(')
             {
-                stack.push(s.charAt(i));
+                open++;
             }
-            else if(stack.peek()=='(') 
+            else if(open>0) 
             {
-                stack.pop();
+                open--;
             }
             else 
             {
-                stack.push(s.charAt(i));
+                closed++;
             }
         }
-        return stack.size()-1;
+        return open+closed;
     }
 }
