@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0726-number-of-atoms) |
 | [1256-rank-transform-of-an-array](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1256-rank-transform-of-an-array) |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0264-ugly-number-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2379-maximum-total-importance-of-roads) |
@@ -159,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0040-combination-sum-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0040-combination-sum-ii) |
 | [0539-minimum-time-difference](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0731-my-calendar-ii) |
@@ -235,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0264-ugly-number-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0432-all-oone-data-structure) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0906-walking-robot-simulation) |
@@ -313,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Two Pointers
 |  |
