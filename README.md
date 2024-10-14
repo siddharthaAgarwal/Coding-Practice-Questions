@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2379-maximum-total-importance-of-roads) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Graph
 |  |
 | ------- |
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0789-kth-largest-element-in-a-stream](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2379-maximum-total-importance-of-roads) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Array
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2472-build-a-matrix-with-conditions](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2502-sort-the-people) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
