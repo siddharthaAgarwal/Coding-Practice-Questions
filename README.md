@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Graph
 |  |
 | ------- |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2727-number-of-senior-citizens](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3195-separate-black-and-white-balls](https://github.com/siddharthaAgarwal/Coding-Practice-Questions/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
